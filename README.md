@@ -24,24 +24,7 @@ This is the first task I completed during my **Web Development Internship at Pro
 - CSS3 (Flexbox, Media Queries)
 - No frameworks or libraries used
 
----
 
-## 📸 Screenshots
-
-| Desktop View | Mobile View |
-|--------------|-------------|
-| ![Desktop](screenshots/desktop.png) | ![Mobile](screenshots/mobile.png) |
-
-> 💡 *Replace the image paths with your actual screenshot paths*
-
----
-
-## 📽️ Demo Video
-
-Watch the full demo video [here](https://drive.google.com/your-demo-link)  
-> *(Add your recorded video link or GitHub video preview)*
-
----
 
 ## 📁 Folder Structure
 
